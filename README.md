@@ -1,4 +1,4 @@
-# Handling missing values 
+# Handling missing values - Copy files in Google Colab and run them note by note
 Python tutorial for handling missing values
 
 ## Overview
